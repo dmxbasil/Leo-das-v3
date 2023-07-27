@@ -97,12 +97,12 @@ async def next_page(bot, query):
     elif off_set is None:
         btn.insert(0,
             [
-                InlineKeyboardButton("Ott Update", url="https://t.me/Ott_UpdatezTG"),
+                InlineKeyboardButton("ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ", url="https://t.me/+V8xo48_OzFI2OWI9"),
             ]
         )
         btn.insert(1,
             [
-                InlineKeyboardButton("Groups", url="https://t.me/Group_Linkzzzz"),
+                InlineKeyboardButton("2ɴᴅ ɢʀᴏᴜᴩ", url="https://t.me/dmx_chating_2_0"),
             ]
         )
         btn.append(
